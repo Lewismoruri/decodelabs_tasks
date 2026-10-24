@@ -12,7 +12,7 @@ The project includes data exploration, PivotTables, charts, KPI calculations, an
 
 ## Dashboard Preview
 
-![E-commerce Performance Dashboard](images/E-commerce%20Performance%20Dashboard.png)
+![E-commerce Performance Dashboard](E-commerce%20Performance%20Dashboard.png)
 
 ## Business Questions
 
